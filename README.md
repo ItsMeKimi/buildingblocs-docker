@@ -1,2 +1,3 @@
 # buildingblocs-docker
-Setting up a Docker Image File for managing future BuildingBloCS site updates.
+My script and instructions for setting up a Docker Image File for managing future BuildingBloCS site updates.
+
